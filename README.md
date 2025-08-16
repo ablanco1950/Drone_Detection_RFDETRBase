@@ -1,14 +1,15 @@
 Drone_Detection_RFDETRBase
 
-Since you've noticed that Roboflow's RFDETRBase incorporates the drone class as an additional class, this drone detection program is presented.
+Since have been noticed that Roboflow's RFDETRBase incorporates the drone class as an additional class, this drone detection program is presented.
 
 Installation:
 
 Download the files to a directory on disk. Unzip the file with the test images (Test1).
 
-Since these are Roboflow utilities updated on August 16, 2025, which may cause incompatibilities with previous versions, it is recommended to create a new environment and install it.
+Since these are Roboflow utilities updated on August 16, 2025, which may cause incompatibilities with previous versions, it is recommended to create a new environment and install in  it.
 
 pip install supervision
+
 pip install rfdetr
 
 Run the test
