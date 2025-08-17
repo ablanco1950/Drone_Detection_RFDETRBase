@@ -29,7 +29,7 @@ Also, considering true positives, looks inferior to those obtained with Yolov10 
 
 Even with the project uploaded to the Roboflow website https://app.roboflow.com/a-stx8a/drone_detection_rf_detr-9ghzn/models/drone_detection_rf_detr-9ghzn/1, which was trained with only 342 images.
 
-On the other hand, RFDETRBase, appart of a very good precission, allows for the simultaneous detection of not only drones but also multiple objects.
+On the other hand, RFDETRBase, besides of a very good precission, allows for the simultaneous detection of not only drones but also multiple objects.
 
 The program used in this project is based on the program found at https://blog.roboflow.com/train-rf-detr-on-a-custom-dataset/, with some modifications.
 
