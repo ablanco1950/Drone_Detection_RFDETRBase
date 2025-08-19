@@ -27,7 +27,7 @@ https://universe.roboflow.com/drone-detection-pexej/drone-detection-data-set-yol
 
 Also, considering true positives, looks inferior to those obtained with Yolov10 in the project https://github.com/ablanco1950/Drone-Detection_Yolov10
 
-Even with the project uploaded to the Roboflow website https://app.roboflow.com/a-stx8a/drone_detection_rf_detr-9ghzn/models/drone_detection_rf_detr-9ghzn/1, which was trained with only 342 images.
+Even with the project uploaded to the Roboflow website https://app.roboflow.com/a-stx8a/drone_detection_rf_detr-9ghzn/models/drone_detection_rf_detr-9ghzn/1, which was trained with RF-DETR from Roboflow and only 342 images.
 
 On the other hand, RFDETRBase, besides of a very good precission, allows for the simultaneous detection of not only drones but also multiple objects.
 
