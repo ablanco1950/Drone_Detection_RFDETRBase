@@ -8,6 +8,8 @@ Download the files to a directory on disk. Unzip the file with the test images (
 
 Since these are Roboflow utilities updated on August 16, 2025, which may cause incompatibilities with previous versions, it is recommended to create a new environment and install in  it.
 
+pip install torchvision
+
 pip install supervision
 
 pip install rfdetr
