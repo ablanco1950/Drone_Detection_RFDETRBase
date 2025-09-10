@@ -35,6 +35,8 @@ On the other hand, RFDETRBase, besides of a very good precission, allows for the
 
 The program used in this project is based on the program found at https://blog.roboflow.com/train-rf-detr-on-a-custom-dataset/, with some modifications.
 
+Although as of 09/10/2025 in the list of classes of the COCO dataset, with which most of the models are pre-trained, class 5 appears as "airplane", by running this simple program it can be verified that drones are detected that do not have any appearance of airplanes.
+
 Cite:
 
 James Gallagher, Piotr Skalski. (Mar 20, 2025). How to Train RF-DETR on a Custom Dataset. Roboflow Blog: https://blog.roboflow.com/train-rf-detr-on-a-custom-dataset/
